@@ -9,6 +9,7 @@ import java.util.TimerTask;
 
 import javax.swing.*;
 
+// This is a trick.
 public class Octopus extends JFrame {
     private JButton btnStart;
     private JButton btnStop;
